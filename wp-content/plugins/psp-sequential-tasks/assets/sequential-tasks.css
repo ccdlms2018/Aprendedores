@@ -1,0 +1,20 @@
+#psp-projects .psp-task-list li.psp-is-sequential span.psp-task-edit-links {
+    display: none;
+}
+
+#psp-projects .psp-phase.phase-complete + .psp-phase .psp-task-list li:first-child:hover span.psp-task-edit-links,
+#psp-projects .psp-task-list li.complete + li.psp-is-sequential:hover span.psp-task-edit-links {
+    display: block !important;
+}
+
+#psp-projects .psp-task-list li.sub-task-item strong {
+    font-size: 12px;
+}
+
+#psp-projects .psp-task-list li.sub-task-item + li.task-item {
+    margin-top: 25px;
+}
+
+#psp-projects .psp-task-list li.psp-has-subtask > span {
+    display: none;
+}

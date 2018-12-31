@@ -1,0 +1,20 @@
+2018-12-29T02:16:13+00:00 CRITICAL Uncaught Error: Class 'ZipArchive' not found in /home/q6r0t18r9h0o/public_html/wp-content/plugins/vibe-shortcodes/upload_handler.php:302
+Stack trace:
+#0 /home/q6r0t18r9h0o/public_html/wp-content/plugins/vibe-shortcodes/upload_handler.php(292): WPLMS_ZIP_UPLOAD_HANDLER->extractZip('/tmp/phpKbRZ9g', '/home/q6r0t18r9...', 'projectpanorama...')
+#1 /home/q6r0t18r9h0o/public_html/wp-includes/class-wp-hook.php(286): WPLMS_ZIP_UPLOAD_HANDLER->wp_ajax_zip_upload('')
+#2 /home/q6r0t18r9h0o/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home/q6r0t18r9h0o/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/q6r0t18r9h0o/public_html/wp-admin/admin-ajax.php(99): do_action('wp_ajax_zip_upl...')
+#5 {main}
+  thrown en /home/q6r0t18r9h0o/public_html/wp-content/plugins/vibe-shortcodes/upload_handler.php en la línea 302
+
+2018-12-29T11:05:16+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/q6r0t18r9h0o/public_html/wp-content/plugins/embed-any-document-plus/lib/plugin_update_check.php:241
+Stack trace:
+#0 /home/q6r0t18r9h0o/public_html/wp-content/plugins/embed-any-document-plus/lib/plugin_update_check.php(285): PluginUpdateChecker_2_0->requestInfo(Array)
+#1 /home/q6r0t18r9h0o/public_html/wp-content/plugins/embed-any-document-plus/lib/plugin_update_check.php(378): PluginUpdateChecker_2_0->requestUpdate()
+#2 /home/q6r0t18r9h0o/public_html/wp-content/plugins/embed-any-document-plus/lib/plugin_update_check.php(436): PluginUpdateChecker_2_0->checkForUpdates()
+#3 /home/q6r0t18r9h0o/public_html/wp-includes/class-wp-hook.php(286): PluginUpdateChecker_2_0->maybeCheckForUpdates()
+#4 /home/q6r0t18r9h0o/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home/q6r0t18r9h0o/public_html/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /home/q6r0t18r9h0o/public_html/wp-cron.php(126): do_action_ref_arra en /home/q6r0t18r9h0o/public_html/wp-content/plugins/embed-any-document-plus/lib/plugin_update_check.php en la línea 241
+

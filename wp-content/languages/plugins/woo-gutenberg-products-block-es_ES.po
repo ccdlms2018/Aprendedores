@@ -1,0 +1,407 @@
+# Translation of Plugins - WooCommerce Blocks - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WooCommerce Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-09 20:14:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WooCommerce Blocks - Stable (latest release)\n"
+
+#: woocommerce-gutenberg-products-block.php:44
+msgid "WooCommerce Product Blocks development mode requires files to be built. From the plugin directory, run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm start</code> to build the files and watch for changes."
+msgstr "El modo de desarrollo de WooCommerce Product Blocks requiere la creación de archivos. Desde el directorio de plugins, ejecuta <code>npm install</code> para instalar dependencias, <code>npm run build</code> para construir los archivos o <code>npm start</code> para construir los archivos y observar los cambios."
+
+#: includes/class-wgpb-product-categories-controller.php:93
+#: includes/class-wgpb-product-attributes-controller.php:96
+#: includes/class-wgpb-product-attributes-controller.php:126
+#: includes/class-wgpb-product-attribute-terms-controller.php:93
+msgid "Resource does not exist."
+msgstr "El recurso no existe."
+
+#: includes/class-wgpb-product-categories-controller.php:84
+#: includes/class-wgpb-product-attributes-controller.php:117
+#: includes/class-wgpb-product-attribute-terms-controller.php:84
+msgid "Taxonomy does not exist."
+msgstr "La taxonomía no existe."
+
+#: includes/class-wgpb-products-controller.php:95
+#: includes/class-wgpb-product-attributes-controller.php:100
+msgid "Sorry, you cannot view this resource."
+msgstr "Lo siento, no puedes ver este recurso."
+
+#: includes/class-wgpb-products-controller.php:81
+#: includes/class-wgpb-product-attributes-controller.php:81
+msgid "Sorry, you cannot list resources."
+msgstr "Lo siento, no puedes listar recursos."
+
+#: languages/woo-gutenberg-products-block.php:239
+#: assets/js/product-category-block.js:89
+msgid "Product Category"
+msgstr "Categoría de productos"
+
+#: languages/woo-gutenberg-products-block.php:236
+#: assets/js/product-category-block.js:307
+msgid "Display a grid of products from your selected categories."
+msgstr "Muestra una cuadrícula de productos de la categorías que elijas."
+
+#: languages/woo-gutenberg-products-block.php:233
+#: assets/js/product-category-block.js:306
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: languages/woo-gutenberg-products-block.php:230
+#: assets/js/product-category-block.js:190
+#: assets/js/product-category-block.js:260
+#: assets/js/product-category-block.js:303
+msgid "Products by Category"
+msgstr "Productos por categoría"
+
+#: languages/woo-gutenberg-products-block.php:227
+#: assets/js/product-category-block.js:268
+msgid "No products in this category."
+msgstr "No hay productos en esta categoría."
+
+#: languages/woo-gutenberg-products-block.php:224
+#: assets/js/product-category-block.js:193
+msgid "Display a grid of products from your selected categories"
+msgstr "Muestra una cuadrícula de productos de las categorías que elijas."
+
+#: languages/woo-gutenberg-products-block.php:221
+#: assets/js/product-category-block.js:183
+msgid "Showing product block preview."
+msgstr "Mostrando la vista previa del bloque de productos."
+
+#: languages/woo-gutenberg-products-block.php:218
+#: assets/js/product-category-block.js:167
+msgid "Menu Order"
+msgstr "Orden en el menú"
+
+#: languages/woo-gutenberg-products-block.php:215
+#: assets/js/product-category-block.js:124
+msgid "Order products by"
+msgstr "Ordenar productos por"
+
+#: languages/woo-gutenberg-products-block.php:212
+#: assets/js/product-category-block.js:120
+msgid "Order By"
+msgstr "Ordernar por"
+
+#: languages/woo-gutenberg-products-block.php:209
+msgid "Selected products"
+msgstr "Productos elegidos"
+
+#: languages/woo-gutenberg-products-block.php:206
+msgid "Products list"
+msgstr "Lista de productos"
+
+#: languages/woo-gutenberg-products-block.php:203
+msgid "Search for products to display"
+msgstr "Busca productos a mostrar"
+
+#: languages/woo-gutenberg-products-block.php:200
+msgid "No categories found"
+msgstr "No se han encontrado categorías"
+
+#: languages/woo-gutenberg-products-block.php:197
+msgid "Search for categories"
+msgstr "Buscar categorías"
+
+#: languages/woo-gutenberg-products-block.php:194
+msgid "No terms found"
+msgstr "No se han encontrado términos"
+
+#: languages/woo-gutenberg-products-block.php:191
+msgid "No attributes found"
+msgstr "No se han encontrado atributos"
+
+#: languages/woo-gutenberg-products-block.php:188
+msgid "Search for attributes"
+msgstr "Buscar atributos"
+
+#: languages/woo-gutenberg-products-block.php:185
+msgid "Display a grid of products from a variety of sources."
+msgstr "Muestra una cuadrícula de productos a partir de una variedad de orígenes."
+
+#: languages/woo-gutenberg-products-block.php:182
+msgid "Products"
+msgstr "Productos"
+
+#: languages/woo-gutenberg-products-block.php:179
+msgid "Current Source"
+msgstr "Origen actual"
+
+#: languages/woo-gutenberg-products-block.php:176
+#: assets/js/product-category-block.js:241
+msgid "Edit"
+msgstr "Editar"
+
+#: languages/woo-gutenberg-products-block.php:172
+#: assets/js/product-category-block.js:101
+msgid "Layout"
+msgstr "Diseño"
+
+#: languages/woo-gutenberg-products-block.php:168
+#: assets/js/product-category-block.js:112
+msgid "Rows"
+msgstr "Filas"
+
+#: languages/woo-gutenberg-products-block.php:164
+#: assets/js/product-category-block.js:160
+msgid "Title - alphabetical"
+msgstr "Apilados - alfabéticamente"
+
+#: languages/woo-gutenberg-products-block.php:160
+#: assets/js/product-category-block.js:156
+msgid "Sales - most first"
+msgstr "Rebajados - primero los más rebajados"
+
+#: languages/woo-gutenberg-products-block.php:156
+#: assets/js/product-category-block.js:149
+msgid "Rating - highest first"
+msgstr "Valoración - primero los más valorados"
+
+#: languages/woo-gutenberg-products-block.php:152
+#: assets/js/product-category-block.js:142
+msgid "Price - high to low"
+msgstr "Precio - de mayor a menor"
+
+#: languages/woo-gutenberg-products-block.php:148
+#: assets/js/product-category-block.js:135
+msgid "Price - low to high"
+msgstr "Precio - de menor a mayor"
+
+#: languages/woo-gutenberg-products-block.php:144
+#: assets/js/product-category-block.js:128
+msgid "Newness - newest first"
+msgstr "Novedad - primero los más novedosos"
+
+#: languages/woo-gutenberg-products-block.php:140
+msgid "Order Products By"
+msgstr "Ordenar productos por"
+
+#: languages/woo-gutenberg-products-block.php:137
+#: assets/js/product-category-block.js:105
+msgid "Columns"
+msgstr "Columnas"
+
+#: languages/woo-gutenberg-products-block.php:133
+msgid "Display all products ordered chronologically, alphabetically, by price, by rating or by sales"
+msgstr "Muestra todos los productos ordenados cronológicamente, alfabéticamente, por  precio, por valoración o por ofertas"
+
+#: languages/woo-gutenberg-products-block.php:130
+msgid "All products"
+msgstr "Todos los productos"
+
+#: languages/woo-gutenberg-products-block.php:127
+msgid "Terms: "
+msgstr "Términos:"
+
+#: languages/woo-gutenberg-products-block.php:124
+msgid "Attribute: "
+msgstr "Atributo:"
+
+#: languages/woo-gutenberg-products-block.php:121
+msgid "Product categories: "
+msgstr "Categorías de producto:"
+
+#: languages/woo-gutenberg-products-block.php:118
+msgid "Attribute"
+msgstr "Atributo"
+
+#: languages/woo-gutenberg-products-block.php:115
+msgid "Top rated"
+msgstr "Más valorados"
+
+#: languages/woo-gutenberg-products-block.php:112
+msgid "Best sellers"
+msgstr "Más vendidos"
+
+#: languages/woo-gutenberg-products-block.php:109
+msgid "No products found"
+msgstr "No se han encontrado productos"
+
+#: languages/woo-gutenberg-products-block.php:105
+msgid "Loading"
+msgstr "Cargando"
+
+#: languages/woo-gutenberg-products-block.php:100
+msgid "On sale"
+msgstr "Rebajados"
+
+#: languages/woo-gutenberg-products-block.php:94
+msgid "E.g. featured products, or products with a specific attribute like size or color"
+msgstr "P.ej. productos destacados, o productos con un atributo específico, como talla o color"
+
+#: languages/woo-gutenberg-products-block.php:91
+msgid "Filter products"
+msgstr "Filtrar productos"
+
+#: languages/woo-gutenberg-products-block.php:88
+#: assets/js/product-category-block.js:206
+msgid "Done"
+msgstr "Hecho"
+
+#: languages/woo-gutenberg-products-block.php:84
+msgid "Please select an attribute"
+msgstr "Por favor, elige un atributo"
+
+#: languages/woo-gutenberg-products-block.php:81
+msgid "Please select at least one category to display"
+msgstr "Por favor, elige al menos una categoría a mostrar"
+
+#: languages/woo-gutenberg-products-block.php:78
+msgid "Please search for and select products to display"
+msgstr "Por favor, busca o elige productos que mostrar"
+
+#: languages/woo-gutenberg-products-block.php:75
+msgid "Please select which products you'd like to display"
+msgstr "Por favor, elige qué productos te gustaría mostrar"
+
+#: languages/woo-gutenberg-products-block.php:72
+msgid "Displaying "
+msgstr "Mostrando"
+
+#: languages/woo-gutenberg-products-block.php:69
+msgid "Display products from a specific category or multiple categories"
+msgstr "Muestra productos de una categoría específica o de varias categorías"
+
+#: languages/woo-gutenberg-products-block.php:66
+msgid "Display different products"
+msgstr "Muestra productos diferentes"
+
+#: languages/woo-gutenberg-products-block.php:63
+msgid "Product category"
+msgstr "Categoría de producto"
+
+#: languages/woo-gutenberg-products-block.php:60
+msgid "Hand-pick which products to display"
+msgstr "Elige manualmente qué productos mostrar"
+
+#: languages/woo-gutenberg-products-block.php:57
+msgid "Individual products"
+msgstr "Productos individuales"
+
+#: languages/woo-gutenberg-products-block.php:54
+msgid "Choose which products you'd like to display:"
+msgstr "Elige qué productos te gustaría mostrar:"
+
+#: languages/woo-gutenberg-products-block.php:51
+#: assets/js/components/search-list-control/index.js:35
+msgid "Search results updated."
+msgstr "Resultados de búsqueda actualizados."
+
+#: languages/woo-gutenberg-products-block.php:48
+#: assets/js/components/search-list-control/index.js:34
+msgid "%d item selected"
+msgid_plural "%d items selected"
+msgstr[0] "%d producto seleccionado"
+msgstr[1] "%d productos seleccionados"
+
+#: languages/woo-gutenberg-products-block.php:45
+#: assets/js/components/search-list-control/index.js:32
+msgid "Search for items"
+msgstr "Buscar productos"
+
+#: languages/woo-gutenberg-products-block.php:42
+#: assets/js/components/search-list-control/index.js:31
+msgid "No results for %s"
+msgstr "Ningún resultado para %s"
+
+#: languages/woo-gutenberg-products-block.php:39
+#: assets/js/components/search-list-control/index.js:30
+msgid "No items found."
+msgstr "Ningún producto encontrado."
+
+#: languages/woo-gutenberg-products-block.php:36
+#: assets/js/components/search-list-control/index.js:29
+msgid "Results"
+msgstr "Resultados"
+
+#: languages/woo-gutenberg-products-block.php:33
+#: assets/js/components/search-list-control/index.js:28
+msgid "Clear all selected items"
+msgstr "Vaciar todos los productos seleccionados"
+
+#: languages/woo-gutenberg-products-block.php:30
+#: assets/js/components/search-list-control/index.js:215
+msgid "Clear all"
+msgstr "Vaciar todo"
+
+#: languages/woo-gutenberg-products-block.php:27
+#: assets/js/components/product-preview/index.js:30
+msgid "Add to cart"
+msgstr "Añadir al carrito"
+
+#: languages/woo-gutenberg-products-block.php:23
+#: assets/js/components/product-category-control/index.js:77
+msgid "%s, has %d product"
+msgid_plural "%s, has %d products"
+msgstr[0] "%s, tiene %d producto"
+msgstr[1] "%s, tiene %d productos"
+
+#: languages/woo-gutenberg-products-block.php:20
+#: assets/js/components/product-category-control/index.js:129
+msgid "Category search results updated."
+msgstr "Resultados de la búsqueda de categoría actualizados."
+
+#: languages/woo-gutenberg-products-block.php:17
+#: assets/js/components/product-category-control/index.js:121
+msgid "%d category selected"
+msgid_plural "%d categories selected"
+msgstr[0] "%d categoría seleccionada"
+msgstr[1] "%d categorías seleccionadas"
+
+#: languages/woo-gutenberg-products-block.php:14
+#: assets/js/components/product-category-control/index.js:118
+msgid "Search for product categories"
+msgstr "Buscar categorías de producto"
+
+#: languages/woo-gutenberg-products-block.php:11
+#: assets/js/components/product-category-control/index.js:117
+msgid "Your store doesn't have any product categories."
+msgstr "Tu tienda aún no tiene ninguna categoría de producto."
+
+#: languages/woo-gutenberg-products-block.php:8
+#: assets/js/components/product-category-control/index.js:116
+msgid "Product Categories"
+msgstr "Categorías de producto"
+
+#: languages/woo-gutenberg-products-block.php:5
+#: assets/js/components/product-category-control/index.js:115
+msgid "Clear all product categories"
+msgstr "Vaciar todas las categorías de productos"
+
+#. Description of the plugin
+msgid "WooCommerce blocks for the Gutenberg editor."
+msgstr "Bloques WooCommerce para el editor Gutenberg."
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Blocks"
+msgstr "WooCommerce Blocks"
+
+#: languages/woo-gutenberg-products-block.php:97
+msgid "Featured products"
+msgstr "Productos destacados."
+
+#: includes/class-wgpb-products-controller.php:52
+#: includes/class-wgpb-product-categories-controller.php:52
+#: includes/class-wgpb-product-attributes-controller.php:52
+#: includes/class-wgpb-product-attribute-terms-controller.php:52
+msgid "Unique identifier for the resource."
+msgstr "Identificador único del recurso."
+
+#. Author URI of the plugin
+msgid "https://woocommerce.com"
+msgstr "https://woocommerce.com"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/woocommerce/woocommerce-gutenberg-products-block"
+msgstr "https://github.com/woocommerce/woocommerce-gutenberg-products-block"

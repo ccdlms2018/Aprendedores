@@ -1,0 +1,26 @@
+{
+  "name": "psp-frontend-editor",
+  "version": "1.2.0",
+  "description": "Create and edit projects from the front end",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "compass": "^0.1.1"
+  },
+  "scripts": {
+    "compass": "compass watch assets"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3pointross/psp-frontend-editor/branches.git"
+  },
+  "author": "Ross Johnson",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/3pointross/psp-frontend-editor/branches/issues"
+  },
+  "homepage": "https://github.com/3pointross/psp-frontend-editor/branches#readme"
+}

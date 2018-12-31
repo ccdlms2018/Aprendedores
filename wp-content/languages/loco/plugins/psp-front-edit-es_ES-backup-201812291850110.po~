@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Project Panorama Front End Editor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-01 17:52+0000\n"
+"PO-Revision-Date: 2018-12-29 18:49+0000\n"
+"Last-Translator: admin <admin@aprendedores.mx>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.2"
+
+#: lib/psp-fe-controller.php:204
+msgid "Save"
+msgstr "Guardar"
+
+#: lib/psp-fe-controller.php:204
+msgid "Save & Continue"
+msgstr ""
+
+#: lib/psp-fe-controller.php:218 lib/psp-fe-controller.php:278
+msgid "Project Title"
+msgstr "Titulo del proyecto"
+
+#: lib/psp-fe-settings.php:20
+msgid "Active"
+msgstr "Activar"
+
+#: lib/psp-fe-settings.php:22
+msgid "Deactivate License"
+msgstr "Desactivar Licencia"
+
+#: lib/psp-fe-settings.php:25
+msgid "Inactive"
+msgstr "Inactivo"
+
+#: lib/psp-fe-settings.php:27 lib/psp-fe-settings.php:61
+msgid "Activate License"
+msgstr "Activar Licencia"
+
+#: lib/psp-fe-settings.php:38 lib/psp-fe-settings.php:50
+msgid "Front End Editor"
+msgstr ""
+
+#: lib/psp-fe-settings.php:55
+msgid "License Key"
+msgstr ""
+
+#: lib/psp-fe-settings.php:56
+msgid "Enter your license key, save and then activate."
+msgstr ""
+
+#: lib/psp-fe-settings.php:66
+msgid "Dequeue Scripts"
+msgstr ""
+
+#: lib/psp-fe-settings.php:67
+msgid ""
+"If you have theme or plugin scripts effecting the style, enter them here "
+"separated by a comma"
+msgstr ""
+
+#: lib/psp-views.php:24 lib/psp-views.php:91
+msgid "Edit Project"
+msgstr "Editar Proyecto"
+
+#: lib/psp-views.php:31
+msgid "Manage Access"
+msgstr "Administrar accesos"
+
+#: lib/psp-views.php:38
+msgid "Project Settings"
+msgstr "Configuracion de proyecto"
+
+#: lib/psp-views.php:47 lib/psp-views.php:96 lib/view/notifications.php:7
+msgid "Send Notification"
+msgstr ""
+
+#: lib/psp-views.php:92
+msgid "Delete Project"
+msgstr "Eliminar Proyecto"
+
+#: lib/psp-views.php:436 lib/view/new/index.php:71
+msgid "Overview"
+msgstr "Vista General"
+
+#: lib/psp-views.php:445
+msgid "Documents"
+msgstr "Documentos"
+
+#: lib/psp-views.php:454
+msgid "Access"
+msgstr "Accesos"
+
+#: lib/psp-views.php:463
+msgid "Settings"
+msgstr "Configuracion"
+
+#: lib/psp-views.php:472
+msgid "Milestones"
+msgstr "Milestones"
+
+#: lib/psp-views.php:481
+msgid "Phases & Tasks"
+msgstr ""
+
+#: lib/psp-views.php:512
+msgid "Edit Milestones"
+msgstr "Editar Milestones"
+
+#: lib/psp-views.php:524
+msgid "Edit Phases"
+msgstr "Editar Fases"
+
+#: lib/psp-views.php:536
+msgid "Edit Overview"
+msgstr "Editar Vista General"
+
+#: lib/psp-views.php:547
+msgid "Edit Documents"
+msgstr "Editar Documentos"
+
+#: lib/view/notifications.php:10
+msgid "Message Sent"
+msgstr "Mensaje Enviado"
+
+#: lib/view/notifications.php:18
+msgid "Notify"
+msgstr ""
+
+#: lib/view/notifications.php:41
+msgid "Subject"
+msgstr ""
+
+#: lib/view/notifications.php:45
+msgid "Message"
+msgstr "Mensaje"
+
+#: lib/view/notifications.php:51
+msgid "Send"
+msgstr "Enviar"
+
+#: lib/view/notifications.php:51
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: lib/view/edit/index.php:18
+msgid "New Project"
+msgstr "Nuevo Proyecto"
+
+#: lib/view/edit/index.php:53 lib/view/new/index.php:70
+msgid "Step"
+msgstr ""
+
+#: lib/view/edit/index.php:53 lib/view/new/index.php:70
+msgid "of"
+msgstr ""
+
+#. Name of the plugin
+msgid "Project Panorama Front End Editor"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create and edit projects from the front end"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.projectpanorama.com"
+msgstr "https://www.projectpanorama.com"
+
+#. Author of the plugin
+msgid "SnapOrbital"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.snaporbital.com"
+msgstr ""

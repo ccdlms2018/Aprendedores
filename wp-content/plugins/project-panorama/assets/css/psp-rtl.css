@@ -1,0 +1,141 @@
+#psp-projects .psp-modal,
+#psp-projects {
+    direction: rtl !important;
+}
+
+#psp-projects .psp-modal *,
+#psp-projects * {
+    direction: rtl !important;
+}
+
+#psp-projects .psp-archive-project .psp-priority {
+    right: auto;
+    left: 20px;
+}
+
+#psp-projects .psp-task-table .psp-task-table-status em.status,
+#psp-projects .acf-image-uploader .no-image,
+#psp-projects p.psp-tb-progress span, #psp-projects p.psp-progress span, #psp-projects .psp-progress span,
+#psp-projects .psp-task-list li em.status {
+    float: right;
+}
+
+#psp-projects label, #psp-projects td.label,
+#psp-projects.psp-fe-manage-template .acf_postbox *,
+#psp-projects .psp_fe_title_fields input[type='text'],
+#psp-projects .psp-modal label,
+#psp-projects .psp-phase,
+#psp-projects .psp-phase * {
+    text-align: inherit !important;
+}
+
+#psp-projects .psp-fe-edit-documents,
+#psp-projects .psp-fe-edit-link.psp-fe-edit-overview,
+#psp-projects .psp-section-heading p.psp-section-data,
+#psp-projects .psp-phase h4 span,
+#psp-projects .phase-comments h4 span {
+    float: left !important;
+}
+
+#psp-projects .psp-section-heading h1.psp-section-title,
+#psp-projects .psp-section-heading h2.psp-section-title,
+#psp-projects .psp-timeline li {
+    float: right !important;
+}
+
+#psp-projects .psp-task-table-body .col-md-8 {
+    float: right;
+}
+
+#psp-projects .psp-enhanced-milestones ul.psp-milestone-dots li strong.psp-single-milestone span.psp-marker-title::before {
+    left: auto;
+    right: -5px;
+}
+
+#psp-projects .psp-enhanced-milestones ul.psp-milestone-dots li strong.psp-single-milestone span.psp-marker-title::after {
+    left: auto;
+    right: 0;
+}
+
+#psp-projects .psp-enhanced-milestones ul.psp-milestone-dots li b.psp-milestone-dot {
+    margin: -33px -20px 25px 0px;
+}
+
+#psp-projects .psp-enhanced-milestones ul.psp-milestone-dots li b.psp-milestone-dot::after {
+    margin: 5px 20px 0 0;
+}
+#psp-projects .psp-select-wrapper::before {
+    right: auto !important;
+    left: 15px !important;
+}
+
+#psp-projects .psp-expand-comments i.fa {
+    margin-top: 7px;
+    margin-right: 3px;
+}
+
+#psp-projects .psp-expand-comments i.fa,
+#psp-projects .psp-client,
+#psp-projects #psp-searchform,
+#psp-projects .psp-section-nav .psp-new-project-btn,
+#psp-projects .psp-section-nav .psp-pull-right,
+#psp-projects h4.psp-wizard-section strong {
+    float: left !important;
+}
+
+#psp-projects .psp-section-nav .psp-pull-right {
+    border-right: 0 !important;
+    padding-left: 0;
+}
+
+#psp-projects .psp-client {
+    margin-right: 10px;
+}
+
+#psp-projects .psp-archive-section .psp-sub-nav,
+#psp-projects .psp-archive-project .psp-archive-list-dates,
+#psp-projects .psp-archive-project .psp-row + .psp-row .psp-col-md-6 {
+    float: right !important;
+}
+#psp-projects .psp-select-wrapper select {
+    padding: 12px 10px 9px 20px;
+}
+#psp-projects .psp-element-tally span,
+#psp-projects .psp-task-project li {
+    text-align: right !important;
+
+}
+#psp-projects .psp-element-tally {
+    border-left: 0;
+}
+
+
+#psp-projects .psp-milestone-5 { left: auto; right: 5%; }
+#psp-projects .psp-milestone-10 { left: auto; right: 10%;}
+#psp-projects .psp-milestone-15 { left: auto; right: 15%; }
+#psp-projects .psp-milestone-20 { left: auto; right: 20%; }
+#psp-projects .psp-milestone-25 { left: auto; right: 25%; }
+#psp-projects .psp-milestone-30 { left: auto; right: 30%; }
+#psp-projects .psp-milestone-35 { left: auto; right: 35%; }
+#psp-projects .psp-milestone-40 { left: auto; right: 40%; }
+#psp-projects .psp-milestone-45 { left: auto; right: 45%; }
+#psp-projects .psp-milestone-50 { left: auto; right: 50%; }
+#psp-projects .psp-milestone-55 { left: auto; right: 55%; }
+#psp-projects .psp-milestone-60 { left: auto; right: 60%; }
+#psp-projects .psp-milestone-65 { left: auto; right: 65%; }
+#psp-projects .psp-milestone-70 { left: auto; right: 70%; }
+#psp-projects .psp-milestone-75 { left: auto; right: 75%; }
+#psp-projects .psp-milestone-80 { left: auto; right: 80%; }
+#psp-projects .psp-milestone-85 { left: auto; right: 85%; }
+#psp-projects .psp-milestone-90 { left: auto; right: 90%; }
+#psp-projects .psp-milestone-95 { left: auto; right: 95%; }
+#psp-projects .psp-milestone-100 { left: auto; right: 100%; }
+
+#psp-projects #psp-project-summary .summary-chart-wrap {
+    left: auto;
+    right: 15px;
+}
+
+#psp-projects #psp-project-summary .psp-summary-stat {
+    padding: 12px 80px 12px 0;
+}
